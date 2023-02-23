@@ -1,0 +1,8 @@
+name: BossModule
+description: Модуль для создания кастомных боссов
+version: 1.0-DEV
+
+main: by.oneka.bossmodule.BossModule
+author: OneKa
+
+website: diamondworld.pro
